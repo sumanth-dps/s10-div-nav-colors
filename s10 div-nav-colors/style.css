@@ -1,0 +1,113 @@
+
+#heading{
+    font-family: cursive;
+    background-color: #342917;
+    color: #e4d9c6;
+    text-align: center;
+    box-shadow: 5px 5px 5px skyblue;
+}
+
+div{
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+.imageSize{
+    width: 250px;
+    padding: 20px;
+    display: inline-block;
+    margin: 10px;
+    box-sizing: content-box;
+    box-shadow: 0px 0px 20px #0d0d0d;
+}
+.movieTitle{
+    text-align: center;
+    font-family: cursive;
+}
+.moviePlot{
+    font-size: 20px;
+    width :1100px;
+    height :370px;
+    overflow:auto;
+    text-align: justify;
+    display: inline-block;
+
+}
+.partOne{
+    border: 20px ridge rgb(208, 155, 164);
+    background-color:rgb(205, 152, 133);
+    border-radius: 10px;
+}
+.partTwo{    
+    border: 20px dashed pink;
+    background-color: hsl(180, 56%, 38%);
+    border-radius: 20px;;
+}
+.partThree{    
+    border: 20px groove hwb(199 9% 76%);
+    background-color: #b7b0a5;
+    border-radius: 40px;
+}
+.castData{
+    font-size: 20px;
+    width :1100px;
+    height :200px;
+    overflow:auto;
+    display: inline-block;
+}
+.christianBale{
+    border: 20px solid rgb(32, 70, 42);
+    background-color: #5fbc9a;
+    border-radius: 30px;
+}
+.cillianMurphy{
+    border: 20px inset rgb(213, 180, 129);
+    background-color: #6b97ac;
+    border-radius: 40px;
+}
+.liamNeeson{
+    border: 20px outset rgb(20, 40, 66);
+    background-color: #e99a9e;
+    border-radius: 50px;
+}
+.garyOldman{
+    border: 20px hidden rgb(83, 25, 62);
+    background-color: #abe7e7;
+    border-radius: 10px;
+}
+.michaelCaine{
+    border: 20px none rgb(253, 186, 85);
+    background-color: #b7b0a5;
+    border-radius: 70px;
+}
+.heathLedger{
+    border: 20px dashed rgb(90, 92, 25);
+    background-color: #926c8b;
+    border-radius: 30px;
+}
+
+.aaronEckhart{
+    border: 20px outset rgb(172, 152, 124);
+    background-color: #e6d66d;
+    border-radius: 20px;
+}
+.tomHardy{
+    border: 20px double rgb(72, 88, 24);
+    background-color: #e48464;
+    border-radius: 20px;
+}
+.anneHathaway{
+    border: 10px dotted rgb(68, 46, 13);
+    background-color: #e4d9c6;
+    border-radius: 50px;
+}
+.movieLinks{
+    font-size: 20px;
+}
+.director{
+    border: 10px inset rgb(43, 34, 67);
+    background-color: #f5d595;
+    border-radius: 50px;
+}
+
